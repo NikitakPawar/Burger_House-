@@ -17,15 +17,22 @@ Frontend:
 HTML5, CSS3, JavaScript
 Bootstrap for responsive design
 
+## Logo
+![Logo](https://github.com/user-attachments/assets/07425b52-9c65-4a5f-8d09-962cfba1fa19)
+
 ## Home Page
 ![Home_page](https://github.com/user-attachments/assets/315a0a0e-95f5-4114-ac97-5870177f1076)
 
 
 ![Home_page2](https://github.com/user-attachments/assets/69e97e47-1f8e-4df7-ab0d-4490203d9d2e)
 
+## Menu
+
 ![menu](https://github.com/user-attachments/assets/98c6419f-2ea5-4b5b-9f7c-9d33353ed0e8)
+
+## Offers
 
 ![Offers](https://github.com/user-attachments/assets/122ee97b-513b-4990-acb8-c4574cf25cda)
 
-![Logo](https://github.com/user-attachments/assets/07425b52-9c65-4a5f-8d09-962cfba1fa19)
+
 
